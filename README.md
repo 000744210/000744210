@@ -1,11 +1,11 @@
 # Welcome To My Profile
  I wrote the following websites.
  - https://www.boolean-algebra.com
-   --- Learn boolean algebra. Insert a boolean expression into my tool and it will give detailed conversions and steps to simplify.
+   &mdash; Learn boolean algebra. Insert a boolean expression into my tool and it will give detailed conversions and steps to simplify.
  - https://www.sql-practice.com
-   --- Practice SQL in the browser. You are provided with a demo database and you are provided with a question to solve. Write a query to solve the problem.
+   &mdash; Practice SQL in the browser. You are provided with a demo database and you are provided with a question to solve. Write a query to solve the problem.
  - https://www.compareminds.com
-   --- A site I wrote to learn Vue.js. Play mental games and compare your results with the rest of the world.
+   &mdash; A site I wrote to learn Vue.js. Play mental games and compare your results with the rest of the world.
 
 I suggest checking out my [Ajax Intercepter](https://github.com/000744210/Ajax-Intercepter) browser extension. It allows you to intercept all xhr/websockets/htmlform network requests. You can read and edit the body/headers/url or reject the packet. I use it to test website for vulnurabilitys. I have found most of my vulnurabilitys with this extension.
 
