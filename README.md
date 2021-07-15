@@ -10,7 +10,7 @@
  
    &mdash; A site I wrote to learn Vue.js. Play mental games and compare your results with the rest of the world.
 
-I suggest checking out my [Ajax Intercepter](https://github.com/000744210/Ajax-Intercepter) browser extension. It allows you to intercept all xhr/websockets/htmlform network requests. You can read and edit the body/headers/url or reject the packet. I use it to test website for vulnurabilitys. I have found most of my vulnurabilitys with this extension.
+I suggest checking out my [Ajax Intercepter](https://github.com/000744210/Ajax-Intercepter) browser extension. It allows you to intercept all xhr/websockets/htmlform network requests. You can read and edit the body/headers/url or reject the packet. I use it to test websites for vulnerabilities. I have found most of my vulnerabilities with this extension.
 
 All of my websites are hosted using GitPages. All processing is done on the browser without the need of a server.
 
