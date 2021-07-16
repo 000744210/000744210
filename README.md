@@ -12,7 +12,7 @@
 
 I suggest checking out my [Ajax Intercepter](https://github.com/000744210/Ajax-Intercepter) browser extension. It allows you to intercept all xhr/websockets/htmlform network requests. You can read and edit the body/headers/url or reject the packet. I use it to test websites for vulnerabilities. I have found most of my vulnerabilities with this extension.
 
-All of my websites are hosted using GitPages. All processing is done on the browser without the need of a server.
+All of my websites are hosted using GitPages and proxied through CloudFlare. All processing is done on the browser without the need of a server.
 
 I focus on efficiency and cost reduction. Hosting currently costs $0.00 and supports up to approximately 300,000 monthly unique people. 
 
