@@ -16,4 +16,4 @@ All of my websites are hosted using GitPages and proxied through CloudFlare. All
 
 I focus on efficiency and cost reduction. Hosting currently costs $0.00 and supports up to approximately 500,000 monthly unique people before a different host is required. 
 
-Most of my main repositories are privated, most of the repositories are compiled websites, sorry.
+Most of my main repositories are privated, most of the public repositories are compiled source code, sorry.
