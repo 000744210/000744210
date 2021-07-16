@@ -8,7 +8,7 @@
    &mdash; Practice SQL in the browser. You are provided with a demo database and you are provided with a question to solve. Write a query to solve the problem.
  - https://www.compareminds.com
  
-   &mdash; A site I wrote to learn Vue.js. Play mental games and compare your results with the rest of the world.
+   &mdash; A site I wrote so I can learn Vue.js. Play mental games and compare your results with the rest of the world.
 
 I suggest checking out my [Ajax Intercepter](https://github.com/000744210/Ajax-Intercepter) browser extension. It allows you to intercept all xhr/websockets/htmlform network requests. You can read and edit the body/headers/url or reject the packet. I use it to test websites for vulnerabilities. I have found most of my vulnerabilities with this extension.
 
