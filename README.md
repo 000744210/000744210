@@ -9,11 +9,14 @@
  - https://www.compareminds.com
  
    &mdash; A site I wrote so I can learn Vue.js. Play mental games and compare your results with the rest of the world.
-
+- https://uploadtransfer.com
+  
+  &mdash; A peer to peer file sharing site written in Vue.js with a NodeJS backend. The backend only manages the creation of the peer connections with a websocket protocol.
+  
 I suggest checking out my [Ajax Intercepter](https://github.com/000744210/Ajax-Intercepter) browser extension. It allows you to intercept all xhr/websockets/htmlform network requests. You can read and edit the body/headers/url or reject the packet. I use it to test websites for vulnerabilities. I have found most of my vulnerabilities with this extension.
 
-All of my websites are hosted using GitPages and proxied through CloudFlare. All processing is done on the browser without the need of a server.
+All of my websites are hosted using GitPages or Cloudflare Pages and proxied through CloudFlare. Most processing is done on the browser without the need of a server.
 
-I focus on efficiency and cost reduction. Hosting currently costs $0.00 and supports up to approximately 500,000 monthly unique people before a different host is required. 
+I focus on efficiency and cost reduction. Hosting currently costs $0.00 and supports up to approximately 500,000 monthly unique users before a different host is required. 
 
-Most of my main repositories are privated, most of the public repositories are compiled source code, sorry.
+Most of my main repositories are privated, most of the public repositories are compiled source code, sorry for those who wanted to see. I can share the repositories if I sent you a resume.
