@@ -17,6 +17,6 @@ I suggest checking out my [Ajax Intercepter](https://github.com/000744210/Ajax-I
 
 All of my websites are hosted using GitPages or Cloudflare Pages and proxied through CloudFlare. Most processing is done on the browser without the need of a server.
 
-I focus on efficiency and cost reduction. Hosting currently costs $0.00 and supports up to approximately 500,000 monthly unique users before a different host is required. 
+I focus on efficiency and cost reduction. Hosting currently costs $0.00 and supports up to approximately 500,000 monthly unique users before a different hosting plan is required. 
 
 Most of my main repositories are privated, most of the public repositories are compiled source code, sorry for those who wanted to see. I can share the repositories if I sent you a resume.
